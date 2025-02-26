@@ -45,7 +45,7 @@ Key features:
 To set up the project locally, follow these steps:
 1. Clone the repository
 ```
-git clone https://github.com/Gupta-Aryaman/scanPlus.git
+git clone https://github.com/Swarangii216/Scan.git
 cd scanPlus
 ```
 2. Create a virtual environment
